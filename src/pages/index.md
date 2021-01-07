@@ -33,6 +33,7 @@ sections:
           - label: View Posts
             url: /blog
             style: link
+        image: images/1.jpg
       - title: Style Guide
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
